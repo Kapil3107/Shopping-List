@@ -1,0 +1,1 @@
+# Developed a responsive website to make a shopping list with JWT Authentication using the MERN stack. To visit the shopping list and perform tasks like adding or deleting an item, the user has to be signed in.
